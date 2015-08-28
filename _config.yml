@@ -5,11 +5,11 @@ gems:
 
 # Site settings
 title: Centrarium
-subtitle: "What would you do if I sang out of tune, whould you stand up and walk out on me?"
-email: adotsenko3@gatech.edu
-name: Andriy Dotsenko
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
+email: blcentra@gmail.com
+name: Ben Centra
 description: > 
-  None of your business.
+  A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
